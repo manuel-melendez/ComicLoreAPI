@@ -18,10 +18,9 @@ namespace ComicLoreApi.Repositories
             await _context.SaveChangesAsync();
         }
 
-        public async Task deletePowerAsync(Power power)
+        public void deletePower(Power power)
         {
             _context.Powers.Remove(power);
-            await _context.SaveChangesAsync();
         }
 
         public async Task<IEnumerable<Power>> getAllPowersAsync()
@@ -32,6 +31,10 @@ namespace ComicLoreApi.Repositories
         public async Task<Power> getPowerByIdAsync(int id)
         {
             return await _context.Powers.FirstOrDefaultAsync(p => p.Id == id);
+        }
+        public async Task<bool> SaveChangesAsync()
+        {
+            return (await _context.SaveChangesAsync() >= 0);
         }
     }
 }

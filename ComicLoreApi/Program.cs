@@ -11,6 +11,7 @@ builder.Services.AddDbContext<SupeInfoDbContext>(dbContextOptions =>
 
 builder.Services.AddScoped<ISupeRepository, SupeRepository>();
 builder.Services.AddScoped<IPowerRepository, PowerRepository>();
+builder.Services.AddScoped<ISupeService, SupeService>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 

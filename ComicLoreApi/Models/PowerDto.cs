@@ -1,8 +1,9 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using ComicLoreApi.Entities;
+using System.ComponentModel.DataAnnotations;
 
-namespace ComicLoreApi.Entities
+namespace ComicLoreApi.Models
 {
-    public class Power
+    public class PowerDto
     {
         public int Id { get; set; }
         [Required]
@@ -11,7 +12,5 @@ namespace ComicLoreApi.Entities
         [StringLength(500)]
         public string Description { get; set; }
         public string PowerTier { get; set; }
-        // Navigation property for many-to-many relationship with supes
-        public ICollection<Supe> Supes { get; set; } = new List<Supe>();
     }
 }

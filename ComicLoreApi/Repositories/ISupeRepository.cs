@@ -7,6 +7,7 @@ namespace ComicLoreApi.Repositories
         Task<Supe> getSupeByIdAsync(int id);
         Task<IEnumerable<Supe>> getAllSupesAsync();
         Task addSupeAsync(Supe supe);
-        Task deleteSupeAsync(Supe supe);
+        void deleteSupe(Supe supe);
+        Task<bool> SaveChangesAsync();
     }
 }

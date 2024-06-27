@@ -12,26 +12,31 @@ namespace ComicLoreApi.Repositories
         {
             _context = context ?? throw new ArgumentNullException(nameof(context));
         }
+
+        public async Task<IEnumerable<Supe>> getAllSupesAsync()
+        {
+            return await _context.Supes.Include(s => s.Powers).ToListAsync();
+        }
+
+        public async Task<Supe> getSupeByIdAsync(int id)
+        {
+            return await _context.Supes.Include(s => s.Powers).FirstOrDefaultAsync(s => s.Id == id);
+        }
+
         public async Task addSupeAsync(Supe supe)
         {
            _context.Supes.Add(supe);
             await _context.SaveChangesAsync();
         }
 
-        public async Task deleteSupeAsync(Supe supe)
+        public void deleteSupe(Supe supe)
         {
             _context.Supes.Remove(supe);
-            await _context.SaveChangesAsync();
         }
 
-        public async Task<IEnumerable<Supe>> getAllSupesAsync()
+        public async Task<bool> SaveChangesAsync()
         {
-           return await _context.Supes.ToListAsync();
-        }
-
-        public async Task<Supe> getSupeByIdAsync(int id)
-        {
-            return await _context.Supes.FirstOrDefaultAsync(s => s.Id == id);
+            return (await _context.SaveChangesAsync() >= 0);
         }
     }
 }

@@ -4,6 +4,7 @@ using ComicLoreApi.DbContexts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ComicLoreApi.Migrations
 {
     [DbContext(typeof(SupeInfoDbContext))]
-    partial class SupeInfoDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240627201417_Seeded Data")]
+    partial class SeededData
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -40,9 +43,8 @@ namespace ComicLoreApi.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.Property<string>("PowerTier")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("PowerTier")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -54,28 +56,28 @@ namespace ComicLoreApi.Migrations
                             Id = 1,
                             Description = "Ability to fly",
                             Name = "Flight",
-                            PowerTier = "A"
+                            PowerTier = 1
                         },
                         new
                         {
                             Id = 2,
                             Description = "Enhanced physical strength",
                             Name = "Super Strength",
-                            PowerTier = "S"
+                            PowerTier = 0
                         },
                         new
                         {
                             Id = 3,
                             Description = "Ability to become invisible",
                             Name = "Invisibility",
-                            PowerTier = "B"
+                            PowerTier = 2
                         },
                         new
                         {
                             Id = 4,
                             Description = "Use of advanced technology and gadgets",
                             Name = "Gadgets",
-                            PowerTier = "C"
+                            PowerTier = 3
                         });
                 });
 

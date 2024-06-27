@@ -7,6 +7,7 @@ namespace ComicLoreApi.Repositories
         Task<Power> getPowerByIdAsync(int id);
         Task<IEnumerable<Power>> getAllPowersAsync();
         Task addPowerAsync(Power power);
-        Task deletePowerAsync(Power power);
+        void deletePower(Power power);
+        Task<bool> SaveChangesAsync();
     }
 }
