@@ -15,12 +15,14 @@ namespace ComicLoreApi.Controllers
         private readonly ISupeRepository _supeRepository;
         private readonly IMapper _mapper;
         private readonly ISupeService _supeService;
+        private readonly ILogger<SupesController> _logger;
 
-        public SupesController(ISupeRepository supeRepository, IMapper mapper, ISupeService supeService)
+        public SupesController(ISupeRepository supeRepository, IMapper mapper, ISupeService supeService, ILogger<SupesController> logger)
         {
             _supeRepository = supeRepository ?? throw new ArgumentNullException(nameof(supeRepository));
             _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
             _supeService = supeService ?? throw new ArgumentNullException(nameof(supeService));
+            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
         }
 
         [HttpGet]
@@ -29,6 +31,7 @@ namespace ComicLoreApi.Controllers
             var supes = await _supeRepository.getAllSupesAsync();
             if (supes == null)
             {
+                _logger.LogInformation("No supes found");
                 return NotFound();
             }
 
@@ -44,6 +47,7 @@ namespace ComicLoreApi.Controllers
 
             if(supe == null)
             {
+                _logger.LogInformation($"Supe with id {id} not found");
                 return NotFound();
             }
 
@@ -69,6 +73,7 @@ namespace ComicLoreApi.Controllers
 
             if (supe == null)
             {
+                _logger.LogInformation($"Supe with id {id} not found");
                 return NotFound();
             }
 
@@ -86,6 +91,7 @@ namespace ComicLoreApi.Controllers
 
             if (supe == null)
             {
+                _logger.LogInformation($"Supe with id {id} not found");
                 return NotFound();
             }
 
@@ -103,7 +109,5 @@ namespace ComicLoreApi.Controllers
 
             return NoContent();
         }
-
-
     }
 }

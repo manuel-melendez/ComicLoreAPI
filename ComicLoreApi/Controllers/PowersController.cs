@@ -14,11 +14,13 @@ namespace ComicLoreApi.Controllers
     {
         private readonly IPowerRepository _powerRepository;
         private readonly IMapper _mapper;
+        private readonly ILogger<PowersController> _logger;
 
-        public PowersController(IPowerRepository powerRepository, IMapper mapper)
+        public PowersController(IPowerRepository powerRepository, IMapper mapper, ILogger<PowersController> logger)
         {
             _powerRepository = powerRepository ?? throw new ArgumentNullException(nameof(powerRepository));
             _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
+            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
         }
 
         [HttpGet]
@@ -27,6 +29,7 @@ namespace ComicLoreApi.Controllers
             var powers = await _powerRepository.getAllPowersAsync();
             if (powers == null)
             {
+                _logger.LogInformation("No powers found");
                 return NotFound();
             }
 
@@ -42,6 +45,7 @@ namespace ComicLoreApi.Controllers
 
             if (power == null)
             {
+                _logger.LogInformation($"Power with id {id} not found");
                 return NotFound();
             }
 
@@ -63,6 +67,7 @@ namespace ComicLoreApi.Controllers
         {
             if (id != power.Id)
             {
+                _logger.LogInformation("Id mismatch");
                 return BadRequest();
             }
 
@@ -78,6 +83,7 @@ namespace ComicLoreApi.Controllers
 
             if (power == null)
             {
+                _logger.LogInformation($"Power with id {id} not found");
                 return NotFound();
             }
 
