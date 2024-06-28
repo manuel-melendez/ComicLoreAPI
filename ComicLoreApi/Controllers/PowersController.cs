@@ -2,12 +2,14 @@
 using ComicLoreApi.Entities;
 using ComicLoreApi.Models;
 using ComicLoreApi.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ComicLoreApi.Controllers
 {
     [Route("api/powers")]
     [ApiController]
+    [Authorize]
     public class PowersController : ControllerBase
     {
         private readonly IPowerRepository _powerRepository;

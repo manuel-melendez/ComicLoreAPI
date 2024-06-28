@@ -11,6 +11,8 @@ namespace ComicLoreApi.DbContexts
 
         public DbSet<Supe> Supes { get; set; }
         public DbSet<Power> Powers { get; set; }
+        public DbSet<User> Users { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -31,6 +33,11 @@ namespace ComicLoreApi.DbContexts
                 new Power { Id = 2, Name = "Super Strength", Description = "Enhanced physical strength", PowerTier = "S" },
                 new Power { Id = 3, Name = "Invisibility", Description = "Ability to become invisible", PowerTier = "B" },
                 new Power { Id = 4, Name = "Gadgets", Description = "Use of advanced technology and gadgets", PowerTier = "C" }
+            );
+
+            modelBuilder.Entity<User>().HasData(
+                new User { Id = 1, UserName = "admin", PassWord = "admin", Role = "Admin" },
+                               new User { Id = 2, UserName = "user", PassWord = "user", Role = "User" }
             );
 
             base.OnModelCreating(modelBuilder);

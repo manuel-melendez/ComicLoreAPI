@@ -161,3 +161,4 @@ C:\Projects\ComicLore\ComicLoreApi\bin\Debug\net8.0\runtimes\win-x64\native\e_sq
 C:\Projects\ComicLore\ComicLoreApi\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Projects\ComicLore\ComicLoreApi\bin\Debug\net8.0\AutoMapper.dll
 C:\Projects\ComicLore\ComicLoreApi\obj\Debug\net8.0\ComicLoreApi.sourcelink.json
+C:\Projects\ComicLore\ComicLoreApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

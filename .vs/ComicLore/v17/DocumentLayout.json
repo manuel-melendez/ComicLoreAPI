@@ -3,52 +3,32 @@
   "WorkspaceRootPath": "C:\\Projects\\ComicLore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\controllers\\powerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\controllers\\powerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\profiles\\powerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\profiles\\powerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\models\\supeforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\models\\supeforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\controllers\\supescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\controllers\\supescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\profiles\\supeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\profiles\\supeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\controllers\\powerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\controllers\\powerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\models\\powerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\models\\powerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\entities\\power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\entities\\power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\entities\\supe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\entities\\supe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\dbcontexts\\supeinfodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\dbcontexts\\supeinfodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\ComicLore\\ComicLoreApi\\Migrations\\20240627213839_deletedEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ComicLoreApi\\Migrations\\20240627213839_deletedEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\repositories\\ipowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\repositories\\ipowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\repositories\\powerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\repositories\\powerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|c:\\projects\\comiclore\\comicloreapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C342540-E5C2-4243-9B20-C8289A678146}|ComicLoreApi\\ComicLoreApi.csproj|solutionrelative:comicloreapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,158 +46,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PowerProfile.cs",
-              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Profiles\\PowerProfile.cs",
-              "RelativeDocumentMoniker": "ComicLoreApi\\Profiles\\PowerProfile.cs",
-              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Profiles\\PowerProfile.cs",
-              "RelativeToolTip": "ComicLoreApi\\Profiles\\PowerProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:48:28.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SupeProfile.cs",
-              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Profiles\\SupeProfile.cs",
-              "RelativeDocumentMoniker": "ComicLoreApi\\Profiles\\SupeProfile.cs",
-              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Profiles\\SupeProfile.cs",
-              "RelativeToolTip": "ComicLoreApi\\Profiles\\SupeProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:42:16.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SupeForUpdateDto.cs",
-              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Models\\SupeForUpdateDto.cs",
-              "RelativeDocumentMoniker": "ComicLoreApi\\Models\\SupeForUpdateDto.cs",
-              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Models\\SupeForUpdateDto.cs",
-              "RelativeToolTip": "ComicLoreApi\\Models\\SupeForUpdateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:41:27.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Power.cs",
-              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Entities\\Power.cs",
-              "RelativeDocumentMoniker": "ComicLoreApi\\Entities\\Power.cs",
-              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Entities\\Power.cs",
-              "RelativeToolTip": "ComicLoreApi\\Entities\\Power.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:37:27.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Supe.cs",
-              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Entities\\Supe.cs",
-              "RelativeDocumentMoniker": "ComicLoreApi\\Entities\\Supe.cs",
-              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Entities\\Supe.cs",
-              "RelativeToolTip": "ComicLoreApi\\Entities\\Supe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:37:22.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PowerDto.cs",
-              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Models\\PowerDto.cs",
-              "RelativeDocumentMoniker": "ComicLoreApi\\Models\\PowerDto.cs",
-              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Models\\PowerDto.cs",
-              "RelativeToolTip": "ComicLoreApi\\Models\\PowerDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:30:58.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PowerRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Repositories\\PowerRepository.cs",
-              "RelativeDocumentMoniker": "ComicLoreApi\\Repositories\\PowerRepository.cs",
-              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Repositories\\PowerRepository.cs",
-              "RelativeToolTip": "ComicLoreApi\\Repositories\\PowerRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:17:17.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PowersController.cs",
-              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Controllers\\PowersController.cs",
-              "RelativeDocumentMoniker": "ComicLoreApi\\Controllers\\PowersController.cs",
-              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Controllers\\PowersController.cs",
-              "RelativeToolTip": "ComicLoreApi\\Controllers\\PowersController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:10:11.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "SupesController.cs",
               "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Controllers\\SupesController.cs",
               "RelativeDocumentMoniker": "ComicLoreApi\\Controllers\\SupesController.cs",
               "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Controllers\\SupesController.cs",
               "RelativeToolTip": "ComicLoreApi\\Controllers\\SupesController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAgwDkAAAA1AAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAqwAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:14:19.823Z",
+              "WhenOpened": "2024-06-28T14:56:14.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IPowerRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Repositories\\IPowerRepository.cs",
-              "RelativeDocumentMoniker": "ComicLoreApi\\Repositories\\IPowerRepository.cs",
-              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Repositories\\IPowerRepository.cs",
-              "RelativeToolTip": "ComicLoreApi\\Repositories\\IPowerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAYAAAA",
+              "DocumentIndex": 1,
+              "Title": "PowersController.cs",
+              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Controllers\\PowersController.cs",
+              "RelativeDocumentMoniker": "ComicLoreApi\\Controllers\\PowersController.cs",
+              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Controllers\\PowersController.cs",
+              "RelativeToolTip": "ComicLoreApi\\Controllers\\PowersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:17:28.388Z",
+              "WhenOpened": "2024-06-28T14:48:46.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SupeInfoDbContext.cs",
-              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\DbContexts\\SupeInfoDbContext.cs",
-              "RelativeDocumentMoniker": "ComicLoreApi\\DbContexts\\SupeInfoDbContext.cs",
-              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\DbContexts\\SupeInfoDbContext.cs",
-              "RelativeToolTip": "ComicLoreApi\\DbContexts\\SupeInfoDbContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ComicLoreApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ComicLoreApi\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:28:46.574Z",
+              "WhenOpened": "2024-06-28T14:48:19.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20240627213839_deletedEnum.cs",
-              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Migrations\\20240627213839_deletedEnum.cs",
-              "RelativeDocumentMoniker": "ComicLoreApi\\Migrations\\20240627213839_deletedEnum.cs",
-              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Migrations\\20240627213839_deletedEnum.cs",
-              "RelativeToolTip": "ComicLoreApi\\Migrations\\20240627213839_deletedEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ComicLoreApi\\appsettings.json",
+              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\appsettings.json",
+              "RelativeToolTip": "ComicLoreApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T14:42:21.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ComicLoreApi\\Services\\UserService.cs",
+              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Services\\UserService.cs",
+              "RelativeToolTip": "ComicLoreApi\\Services\\UserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T21:38:39.955Z",
+              "WhenOpened": "2024-06-28T14:34:25.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ComicLoreApi\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Services\\IUserService.cs",
+              "RelativeToolTip": "ComicLoreApi\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:24:44.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ComicLore\\ComicLoreApi\\Program.cs",
+              "RelativeDocumentMoniker": "ComicLoreApi\\Program.cs",
+              "ToolTip": "C:\\Projects\\ComicLore\\ComicLoreApi\\Program.cs",
+              "RelativeToolTip": "ComicLoreApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:17:00.366Z",
               "EditorCaption": ""
             }
           ]

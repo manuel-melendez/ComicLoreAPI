@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComicLoreApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4220983d82a5eefa1e29ca085dbb19709653f933")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+097795606a95b4cfc0109191d6fc7cb296ee7aa4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComicLoreApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComicLoreApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
